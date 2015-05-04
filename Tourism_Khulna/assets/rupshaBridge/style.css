@@ -1,0 +1,6 @@
+{margin: 0;padding: 0}
+body{ font-family: sans-serif;font-size: 20px;background-image: url(images/background.png); color: 000}
+.Main{width: 350px; margin: 20px auto}
+.Main h1{background: #3399ff}
+.Main img{height: 300px}
+.Main img{ width: 350px; margin-right: 40px auto}
